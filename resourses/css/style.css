@@ -4,15 +4,20 @@ body {
     text-align: center;
 }
 
+h4 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+}
+
 #top-most-header {
     font-size: 50px;
     color: white;
     text-align: center;
     font-weight: normal;
-}
-
-h4 {
-    text-align: center;
 }
 
 .download {
@@ -25,7 +30,7 @@ h4 {
     margin: 0 auto;
 }
 
-#tag {
+.subheader {
     font-weight: 300;
     font-size: 42px;
     color: white;
